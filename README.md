@@ -29,3 +29,15 @@ Each example follows this schema:
                 }
 ```
 
+
+### Licensing Information
+
+Converted datasets follow their original licenses:
+- DSTC2: GPL 3.0
+- Multiwoz 2.3: MIT
+- SfxDial: Attribution 2.0 UK: England & Wales
+
+Simulated conversation are provided with the following licenses:
+- camrest-sim: CC BY-NC-SA 4.0
+- multiwoz-sim: CC BY-NC-SA 4.0
+
