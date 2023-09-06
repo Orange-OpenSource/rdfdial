@@ -3,7 +3,7 @@
 This dataset provides dialogues annotated in dialogue acts and dialogue
 state in and RDF based formalism.
 
-There is a conversion of `sfxdial`, `dstc2` and `multiwoz-convlab2.3` datasets
+There is a conversion of `sfxdial`, `dstc2` and `multiwoz2.3` datasets
 as well as a few fully synthetic datasets.
 
 Original dataset before conversion are available here:
