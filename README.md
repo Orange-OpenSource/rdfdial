@@ -33,11 +33,11 @@ Each example follows this schema:
 ### Licensing Information
 
 Converted datasets follow their original licenses:
-- DSTC2: GPL 3.0
-- Multiwoz 2.3: MIT
-- SfxDial: Attribution 2.0 UK: England & Wales
+- [DSTC2](https://github.com/matthen/dstc): [GPL 3.0](https://github.com/matthen/dstc/blob/master/LICENSE)
+- [Multiwoz 2.3](https://github.com/thu-coai/ConvLab-2/): [Apache 2.0](https://github.com/thu-coai/ConvLab-2/blob/master/LICENSE)
+- [SfxDial](https://www.repository.cam.ac.uk/items/62011578-23d4-4355-8878-5a150fb72b43): [Attribution 2.0 UK: England & Wales](https://creativecommons.org/licenses/by/2.0/uk/)
 
 Simulated conversation are provided with the following licenses:
-- camrest-sim: CC BY-NC-SA 4.0
-- multiwoz-sim: CC BY-NC-SA 4.0
+- camrest-sim: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+- multiwoz-sim: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
