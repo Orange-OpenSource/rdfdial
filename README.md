@@ -1,4 +1,4 @@
-**The dataset has been moved to [HuggingFace](https://huggingface.co/Orange/rdfdial).**
+**The dataset has been moved to [HuggingFace](https://huggingface.co/datasets/Orange/rdfdial).**
 
 # RDFDIAL dataset
 
